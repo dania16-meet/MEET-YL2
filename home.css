@@ -1,0 +1,14 @@
+#logo{
+    left: 0;
+    top: 0px;
+    float:left
+
+
+}
+
+body{
+     background-image:url('pictures/index.jpeg');
+     background-size:3000px 1800px;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+}
