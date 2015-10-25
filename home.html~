@@ -1,43 +1,71 @@
 <html>
-
 <head>
-
-<title>dania's blog</title>
-
-<link rel="stylesheet" type="text/css" href="home.css">
-
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>Dania Kirresh Blog</title>
+<link href='http://fonts.googleapis.com/css?family=Trocchi' rel='stylesheet' type='text/css' />
+<link href="<img src="dania.jpg" alt="dania" style="width:304px;height:228px;">styles.css" rel="stylesheet" type="text/css" />
 </head>
-
 <body>
-<img id="logo" src="pictures/p2.png" width="200px" height="200px">
-<br>
-<br>
-<br>
-<h1>Everyday a New Aventure</h1>
-<br>
-<br>
-<br>
-<br<div>
-<a href="home">Home</a>
 
-<a href="about me">About me</a>
-
-
-<a href="contact me">Contact </a>
+<div class="wrapper">
+  <div class="logo">Dania Kirresh</div>
+  <div class="menu">
+    <ul>
+      <li><a href="home.html" class="active">Home</a></li>
+      <li><a href="aboutme.html">About me</a></li>
+      <li><a href="contactme.html">Contact me</a></li>
+      
+    </ul>
+  </div>
+  <div class="header">
+    <h1>Welcome to my Blog</h1>
+    
+    <div class="header-button"><a href="#">This is me</a> </div>
+  </div>
+  <div class="banner-container">
+    <div class="banner-top"></div>
+    <div class="banner-middle"> <img src="pictures/dania.jpg" alt="themedemic" width="900" height="900"align="center"/> </div>
+    <div class="banner-bottom"></div>
+  </div>
 </div>
 
-
-
+ <div class="columns-container">
+  
+   <div class="right-column">
+      
+      <div class="right-column-content">
+        <h1>Who Am I? </h1>
+        </br><p>Hi,my name is Dania Kirresh ,a 16 year old palastinian ,
+		I'm in rosary sisters high school ,which is really close to my house.
+        I have many hobbies and activities  ,because I always want to feel that I'm an effective person,
+		that's probably why I feel everyday that everyday is a different adventure for me,
+		as I'm a person who hates routine and always want to try new things
+		</p>
+       </div>
  
-<br>
-
-
-
-<div>
-<p>hi,my name is Dania Kirresh,i'm 16 years old</p>
-<p>I am a palestinian young girl who lives in Beit-Hanina</p>
-<pp>I'm a junior in rosary sisters high school ,it's actually 1 mins from my house</p>
-
+      
+    </div>
+  
+ 
+</div>
+<div class="panels-container">
+  <div class="panel-wrapper">
+    <div class="panel"> <a href="https://www.facebook.com/dania.kirresh?fref=ts"><img src="images/facebook.png" alt="themedemic" /></a>
+      <h1>Facebook</h1>
+     
+    </div>
+    <div class="panel"><a href="https://www.facebook.com/dania.kirresh?fref=ts"> <img src="images/twitter.png" alt="themedemic" /></a>
+      <h1>Twitter</h1>
+      
+    </div>
+    <div class="panel"> <a href="https://www.facebook.com/dania.kirresh?fref=ts"><img src="images/insta.png" alt="themedemic" /><a>
+      <h1>Instagram</h1>
+      
+    </div>
+    <div class="clear"></div>
+  </div>
 </div>
 
 
@@ -46,28 +74,4 @@
 
 
 
-
-
-
-
-
-
-
-
-
-</body>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</html>
+        
