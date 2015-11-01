@@ -12,7 +12,7 @@
 .menu {
 	width:960px;
 	height:100px;
-	background:url(../pictures/menu-bg.png) no-repeat;
+	background:url("pictures/menu-bg.png") no-repeat;
 	margin:0 auto;
 	text-align:center;
 	clear:both;
@@ -68,7 +68,7 @@
 .header-button {
 	width:200px;
 	height:80px;
-	background:url(../pictures/header-button-bg.png) no-repeat;
+	background:url("pictures/header-button-bg.png") no-repeat;
 	text-align:center;
 	margin:0 auto;
 }
@@ -97,7 +97,7 @@
 .banner-top {
 	width:960px;
 	height:15px;
-	background:url(../pictures/banner-top.png) no-repeat;
+	background:url("pictures/banner-top.png") no-repeat;
 }
 .banner-middle {
 	width:auto;
@@ -109,13 +109,13 @@
 .banner-bottom {
 	width:960px;
 	height:15px;
-	background:url(../pictures/banner-bottom.png);
+	background:url("pictures/banner-bottom.png");
 }
 
 
 .panels-container {
 	width:100%;
-	background:url(../pictures/red-bg.png);
+	background:url("pictures/red-bg.png");
 	
 }
 .panel-wrapper {
@@ -170,7 +170,7 @@
 .panel-top {
 	width:260px;
 	height:10px;
-	background:url(../pictures/panel-top.png) no-repeat;
+	background:url("pictures/panel-top.png") no-repeat;
 }
 .panel-middle {
 	width:auto;
@@ -182,7 +182,7 @@
 .panel-bottom {
 	width:260px;
 	height:10px;
-	background:url(../pictures/panel-bottom.png) no-repeat;
+	background:url("pictures/panel-bottom.png") no-repeat;
 }
 
 
@@ -230,17 +230,17 @@
 .left-column-panel-top {
 	width:260px;
 	height:10px;
-	background:url(../pictures/left-panel-top.png);
+	background:url("pictures/left-panel-top.png");
 }
 .left-column-panel-middle {
 	width:200px;
 	padding:20px 30px 20px 30px;
-	background:url(../pictures/body-bg.png)
+	background:url("pictures/body-bg.png")
 }
 .left-column-panel-bottom {
 	width:260px;
 	height:10px;
-	background:url(../pictures/left-panel-bottom.png);
+	background:url("pictures/left-panel-bottom.png");
 }
 
 
