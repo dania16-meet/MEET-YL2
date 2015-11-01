@@ -1,5 +1,16 @@
 from flask import Flask
-app=Flask(__name__)
+app=Flask
+@app.route("/home")
+def home():
+	return render-template('home.html')
+
+@app.route("/aboutme")
+def aboutme():
+	return render-template('aboutme.html')
+
+@app.route("/contactme")
+def contactme():
+	return render-template('contactme.html')
 
 
 
