@@ -1,0 +1,78 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<link rel="stylesheet" type="text/css" href="style.css">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<title>About Dania</title>
+<link href='http://fonts.googleapis.com/css?family=Trocchi' rel='stylesheet' type='text/css' />
+<link href="../static/style.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+<div class="wrapper">
+  <div class="logo">About me</div>
+  <div class="menu">
+    <ul>
+      <li><a href="/home" class="active">Home</a></li>
+      <li><a href="/aboutme">About me</a></li>
+      <li><a href="/contactme">Contact me</a></li>
+     
+    </ul>
+  </div></div>
+  <div class="columns-container">
+  <div class="columns-wrapper">
+    <div class="left-column">
+      <div class="left-column-panel">
+    
+        <div class="left-column-panel-bottom">
+		<div><img src="../static/pictures/dania2.jpg" alt="themedemic" align="left" width="450" height="450"/></div>
+      </div>
+     
+    </div>
+    
+  </div>
+</div>
+   <div class="right-column">
+      
+      <div class="right-column-content">
+        <h1>Brief Biography</h1>
+        </br>
+        <p>As I said I have many hobbies and activities,and I'm sure you're wondering what are they.</br> Well ,I love dancing ,I've been dancing for almost 11 years. I used to play guitar but I stopped a tear and a half ago because I discovered that it doesn't suit me a lot.</br>
+
+Also,I'm in MUN (model united nation),it's a program that gives the students and young people the opportunity to go to conferences to discuss,find solutions and debate global issues . </br>I've been to around 7 conferences until now ,three of them were international, in Paris,Italy and istanbul, and propably you'll find it weird but the onw I loved the most is istanbul because I guess I liked the place and the people there.
+
+</br></br>In addition ,I'm in a program which is called MEET(middle east entrepreneurs of tomorrow )which basically gives the world the leaders of the future ,having Israelis and Palestinians interact together to create a better world.
+
+</br></br>Facts about me:I adore ben &Jerrys  (cookies and creme),when I get nervous I usually start laughing ,I've been best friends with the same two girls since kindergarten. </p>
+       </div>
+ 
+      
+    </div>
+  
+ 
+</div>
+<div class="panels-container">
+  <div class="panel-wrapper">
+    <div class="panel"> <a href="https://www.facebook.com/dania.kirresh?fref=ts"><img src="../static/pictures/facebook.png" alt="facebook" /></a>
+      <h1>Facebook</h1>
+     
+    </div>
+    <div class="panel"><a href="https://www.twitter.com/dania.kirresh?fref=ts"> <img src="../static/pictures/twitter.png" alt="twitter" /></a>
+      <h1>Twitter</h1>
+      
+    </div>
+    <div class="panel"> <a href="https://www.instagram.com/dania_kirresh?fref=ts"><img src="../static/pictures/insta.png" alt="instagram" /><a>
+      <h1>Instagram</h1>
+   
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+   
+  </div>
+</div>
+<div class="footer">
+  <div class="copy-rights">Copyright (c) 2015 Dania Kirresh</div>
+</div>
+</body>
+</html>
